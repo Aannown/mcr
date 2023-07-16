@@ -2,8 +2,8 @@
     "questions": [
       {
         "id": 1,
-        "category": "HTML",
-        "question": "What does HTML stand for?",
+        "category": "MCR",
+        "question": "What does MCR stands for?",
         "options": [
           "Hyperloop Machine Language",
           "Hypertext Markup Language",
