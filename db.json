@@ -1,125 +1,124 @@
 {
-    "questions": [
-      {
-        "id": 1,
-        "category": "MCR",
-        "question": "What does MCR stands for?",
-        "options": [
-          "Hyperloop Machine Language",
-          "Hypertext Markup Language",
-          "Hyperspace Markup Language",
-          "Hypertool Markup Language"
-        ],
-        "right_answer": "Hypertext Markup Language"
-      },
-      {
-        "id": 2,
-        "category": "HTML",
-        "question": "What is the correct HTML tag for the largest heading?",
-        "options": [
-          "<h1>",
-          "<head>",
-          "<heading>",
-          "<h6>"
-        ],
-        "right_answer": "<h1>"
-      },
-      {
-        "id": 3,
-        "category": "HTML",
-        "question": "Which HTML attribute is used to define inline styles?",
-        "options": [
-          "class",
-          "style",
-          "id",
-          "font"
-        ],
-        "right_answer": "style"
-      },
-      {
-        "id": 4,
-        "category": "HTML",
-        "question": "Which HTML tag is used to define a hyperlink?",
-        "options": [
-          "<a>",
-          "<link>",
-          "<href>",
-          "<hyperlink>"
-        ],
-        "right_answer": "<a>"
-      },
-      {
-        "id": 5,
-        "category": "HTML",
-        "question": "What is the correct HTML for inserting an image?",
-        "options": [
-          "<img src='image.jpg' alt='MyImage'>",
-          "<img href='image.jpg' alt='MyImage'>",
-          "<image src='image.jpg' alt='MyImage'>",
-          "<img link='image.jpg' alt='MyImage'>"
-        ],
-        "right_answer": "<img src='image.jpg' alt='MyImage'>"
-      },
-      {
-        "id": 6,
-        "category": "CSS",
-        "question": "What does CSS stand for?",
-        "options": [
-          "Computer Style Sheets",
-          "Creative Style Sheets",
-          "Cascading Style Sheets",
-          "Custom Style Sheets"
-        ],
-        "right_answer": "Cascading Style Sheets"
-      },
-      {
-        "id": 7,
-        "category": "CSS",
-        "question": "Which CSS property is used to change the question color of an element?",
-        "options": [
-          "color",
-          "question-color",
-          "font-color",
-          "question-style"
-        ],
-        "right_answer": "color"
-      },
-      {
-        "id": 8,
-        "category": "CSS",
-        "question": "Which CSS property is used to change the background color of an element?",
-        "options": [
-          "background-color",
-          "color",
-          "background",
-          "background-image"
-        ],
-        "right_answer": "background-color"
-      },
-      {
-        "id": 9,
-        "category": "CSS",
-        "question": "Which CSS property is used to set the font size of an element?",
-        "options": [
-          "font-size",
-          "question-size",
-          "size",
-          "font-style"
-        ],
-        "right_answer": "font-size"
-      },
-      {
-        "id": 10,
-        "category": "CSS",
-        "question": "Which CSS property is used to set the width of an element?",
-        "options": [
-          "width",
-          "height",
-          "size",
-          "length"
-        ],
-        "right_answer": "width"
-      }
-    ]
-  }
-  
+  "questions": [
+    {
+      "id": 1,
+      "category": "My Chemical Romance",
+      "question": "Which year was My Chemical Romance formed?",
+      "options": [
+        "2001",
+        "2003",
+        "2005",
+        "2007"
+      ],
+      "right_answer": "2001"
+    },
+    {
+      "id": 2,
+      "category": "My Chemical Romance",
+      "question": "What is the title of My Chemical Romance's debut album?",
+      "options": [
+        "The Black Parade",
+        "Three Cheers for Sweet Revenge",
+        "I Brought You My Bullets, You Brought Me Your Love",
+        "Danger Days: The True Lives of the Fabulous Killjoys"
+      ],
+      "right_answer": "I Brought You My Bullets, You Brought Me Your Love"
+    },
+    {
+      "id": 3,
+      "category": "My Chemical Romance",
+      "question": "Who is the lead vocalist of My Chemical Romance?",
+      "options": [
+        "Gerard Way",
+        "Frank Iero",
+        "Mikey Way",
+        "Ray Toro"
+      ],
+      "right_answer": "Gerard Way"
+    },
+    {
+      "id": 4,
+      "category": "My Chemical Romance",
+      "question": "Which song features the lyrics 'We'll carry on'?",
+      "options": [
+        "Welcome to the Black Parade",
+        "Helena",
+        "Famous Last Words",
+        "Teenagers"
+      ],
+      "right_answer": "Welcome to the Black Parade"
+    },
+    {
+      "id": 5,
+      "category": "My Chemical Romance",
+      "question": "Which album features the hit single 'Na Na Na (Na Na Na Na Na Na Na Na Na)'?",
+      "options": [
+        "The Black Parade",
+        "Three Cheers for Sweet Revenge",
+        "I Brought You My Bullets, You Brought Me Your Love",
+        "Danger Days: The True Lives of the Fabulous Killjoys"
+      ],
+      "right_answer": "Danger Days: The True Lives of the Fabulous Killjoys"
+    },
+    {
+      "id": 6,
+      "category": "My Chemical Romance",
+      "question": "Who is the guitarist of My Chemical Romance?",
+      "options": [
+        "Frank Iero",
+        "Gerard Way",
+        "Mikey Way",
+        "Ray Toro"
+      ],
+      "right_answer": "Ray Toro"
+    },
+    {
+      "id": 7,
+      "category": "My Chemical Romance",
+      "question": "What is the name of My Chemical Romance's second studio album?",
+      "options": [
+        "The Black Parade",
+        "Three Cheers for Sweet Revenge",
+        "I Brought You My Bullets, You Brought Me Your Love",
+        "Danger Days: The True Lives of the Fabulous Killjoys"
+      ],
+      "right_answer": "Three Cheers for Sweet Revenge"
+    },
+    {
+      "id": 8,
+      "category": "My Chemical Romance",
+      "question": "Which song opens with the lyrics 'Well, if you wanted honesty'?",
+      "options": [
+        "I'm Not Okay (I Promise)",
+        "Welcome to the Black Parade",
+        "Helena",
+        "Famous Last Words"
+      ],
+      "right_answer": "I'm Not Okay (I Promise)"
+    },
+    {
+      "id": 9,
+      "category": "My Chemical Romance",
+      "question": "What is the name of My Chemical Romance's fourth and final studio album?",
+      "options": [
+        "The Black Parade",
+        "Three Cheers for Sweet Revenge",
+        "I Brought You My Bullets, You Brought Me Your Love",
+        "Danger Days: The True Lives of the Fabulous Killjoys"
+      ],
+      "right_answer": "Danger Days: The True Lives of the Fabulous Killjoys"
+    },
+    {
+      "id": 10,
+      "category": "My Chemical Romance",
+      "question": "Which song won the MTV Video Music Award for Best Rock Video in 2005?",
+      "options": [
+        "Helena",
+        "I'm Not Okay (I Promise)",
+        "Welcome to the Black Parade",
+        "Famous Last Words"
+      ],
+      "right_answer": "Helena"
+    }
+  ]
+}
